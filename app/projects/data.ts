@@ -158,6 +158,8 @@ export const projects: ProjectDetail[] = [
 
     category: "Embedded Systems · C++",
 
+    subtitle: "Polytechnique Montréal · INF1900 / PI1",
+
     description:
       "Embedded software project centered around a C++ library used to control robotic components and integrate software directly with physical hardware.",
 
